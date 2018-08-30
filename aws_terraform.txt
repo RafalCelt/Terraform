@@ -1,3 +1,0 @@
-terra.admin
-access key ID: AKIAJAXP45QL2E2TRP6Q
-secret access key: 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
